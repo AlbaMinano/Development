@@ -1,0 +1,13 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	($\log$) Hours	($\log$) Hours	($\log$) Hours	($\log$) Hours
+					
+log_gdp_ph	($\log$) GDP_{ph}	0.0420		0.0148	
+		(0.0742)		(0.0661)	
+log_wage_phUSD	($\log$) W_{ph}		0.177***	0.176***	0.126***
+			(0.0242)	(0.0288)	(0.0421)
+					
+Observations		2,672	694	690	694
+Adjusted R-squared		0.050	0.104	0.104	0.193
+District FE		NO	NO	NO	YES
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					
