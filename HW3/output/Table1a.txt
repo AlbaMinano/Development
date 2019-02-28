@@ -1,0 +1,13 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	$\triangle$ ($\log$) $\c_{it}$	$\triangle$ ($\log$) $\c_{it}$	$\triangle$ ($\log$) $\c_{it}$
+				
+growth_inc	$\beta$	0.0634***	0.0565***	0.0677***
+		(0.00554)	(0.00672)	(0.0107)
+growth_agg	$\phi$	0.0104	-0.0103**	0.0128
+		(0.00848)	(0.00522)	(0.00977)
+				
+Observations		6,007	4,472	1,064
+Adjusted R-squared		0.022	0.016	0.036
+Sample		Overall	Rural	Urban
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
